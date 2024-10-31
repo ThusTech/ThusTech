@@ -16,7 +16,7 @@ Hi there! I'm **ThusTech**, a passionate software developer focusing on **Python
 ---
 
 ## 🚀 Current Projects & Interests  
-- **Job-Search:** Making it easier for employees to get tech jobs.   
+- **Job-Search:** link: https://job-search-black-sigma.vercel.app/  
 - **Cybersecurity Enthusiast:** Exploring offensive security on **TryHackMe**.  
 
 ---
