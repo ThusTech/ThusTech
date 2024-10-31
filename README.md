@@ -6,25 +6,22 @@ Hi there! I'm **ThusTech**, a passionate software developer focusing on **Python
 
 ## 🛠️ Tech Stack & Skills
 - **Languages:** Python, JavaScript  
-- **Frontend:** React, Next.js  
-- **Backend:** FastAPI, Flask  
-- **Database:** PostgreSQL, SQLite  
+- **Frontend:** React,  
+- **Backend:** FastAPI, Django
+- **Database:** MongoDB  
 - **Tools & Platforms:** Git, GitHub, TryHackMe, Terminal  
 - **Cybersecurity:** Beginner in **offensive security** with TryHackMe  
-- **Projects:** Finance Tracker App, OneStop e-bank  
+- **Projects:** Job-Search, Hangman, SpaceRobot  
 
 ---
 
 ## 🚀 Current Projects & Interests  
-- **OneStop e-bank:** Making banking more accessible for visually impaired users.  
-- **Personal Finance Tracker:** Helping users manage their expenses easily.  
+- **Job-Search:** Making it easier for employees to get tech jobs.   
 - **Cybersecurity Enthusiast:** Exploring offensive security on **TryHackMe**.  
 
 ---
 
-## 🏅 Achievements & Activities
-- Completed **Orange Cyberdefense Academy Challenge**  
-- Applying to the **BET Software Graduate Program**  
+## 🏅 Achievements & Activities  
 - Passionate about **ethical dilemmas**, **soccer**, and personal development  
 
 ---
@@ -36,9 +33,9 @@ Hi there! I'm **ThusTech**, a passionate software developer focusing on **Python
 ---
 
 ## 💬 Get in Touch
-- **LinkedIn:** [Your LinkedIn Profile](#)  
+- **LinkedIn:** (https://www.linkedin.com/in/thulani-malaza-a565ab1a2/)(#)  
 - **Twitter:** [Your Twitter Handle](#)  
-- **Email:** your.email@example.com  
+- **Email:** tmalaza429@gmail.com  
 
 ---
 
