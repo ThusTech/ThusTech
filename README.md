@@ -33,8 +33,7 @@ Hi there! I'm **ThusTech**, a passionate software developer focusing on **Python
 ---
 
 ## 💬 Get in Touch
-- **LinkedIn:** https://www.linkedin.com/in/thulani-malaza-a565ab1a2/
-- **Twitter:** [Your Twitter Handle](#)  
+- **LinkedIn:** https://www.linkedin.com/in/thulani-malaza/ 
 - **Email:** tmalaza429@gmail.com  
 
 ---
