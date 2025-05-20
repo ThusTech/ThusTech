@@ -11,12 +11,12 @@ Hi there! I'm **ThusTech**, a passionate software developer focusing on **Python
 - **Database:** MongoDB  
 - **Tools & Platforms:** Git, GitHub, TryHackMe, Terminal  
 - **Cybersecurity:** Beginner in **offensive security** with TryHackMe  
-- **Projects:** Job-Search, Hangman, SpaceRobot  
+- **Projects:** Job-Search  
 
 ---
 
 ## 🚀 Current Projects & Interests  
-- **Job-Search:** n.b in development phase: https://job-search-black-sigma.vercel.app/  
+- **Job-Search:** https://job-search-black-sigma.vercel.app/  
 - **Cybersecurity Enthusiast:** Exploring offensive security on **TryHackMe**.  
 
 ---
